@@ -31,12 +31,13 @@ Currently, I am expanding my skills in JavaScript and React, diving deeper into 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
 -->
 <br>
-**## Expertise**
+
+## Expertise
 <img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="React" src="https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="React Native" src="https://img.shields.io/badge/React%20Native-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="React Native" src="https://img.shields.io/badge/React%20Native-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br>
 <img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="left" alt="Sass" src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" alt="WordPress" src="https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white" />
