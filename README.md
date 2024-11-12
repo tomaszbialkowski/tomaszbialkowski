@@ -15,6 +15,7 @@ Currently, I am expanding my skills in JavaScript and React, diving deeper into 
 
 ## Expertise
 <img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" /><img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img align="left" alt="React" src="https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img align="left" alt="React Native" src="https://img.shields.io/badge/React%20Native-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><br><br><img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /><img align="left" alt="Sass" src="https://img.shields.io/badge/Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" /><img align="left" alt="WordPress" src="https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white" /><img align="left" alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
+<br>
+<br>
 ## Projects
-[<img align="left" alt="Netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />](https://enjs.netlify.app/)
+[<img align="left" alt="Netlify" src="https://img.shields.io/badge/Enjoystick-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white" />](https://enjs.netlify.app/)
